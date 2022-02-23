@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The course and practise of the Court of Common-pleas at Westminster heretofore written by Thomas Cory, Esq., late chief prothonotary thereof ; and now continued, and fitted to the practise used at this day, with additions by W.B., a clerk of the same court.</title>
+            <author>Cory, Thomas, d. 1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34565</idno>
+            <idno type="STC">Wing C6294A</idno>
+            <idno type="STC">ESTC R30273</idno>
+            <idno type="EEBO-CITATION">11281973</idno>
+            <idno type="OCLC">ocm 11281973</idno>
+            <idno type="VID">47270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1458:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The course and practise of the Court of Common-pleas at Westminster heretofore written by Thomas Cory, Esq., late chief prothonotary thereof ; and now continued, and fitted to the practise used at this day, with additions by W.B., a clerk of the same court.</title>
+                  <author>Cory, Thomas, d. 1656.</author>
+               </titleStmt>
+               <extent>[4], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Streater [and 4 others],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXII [1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Writs --  England.</term>
+               <term>Courts --  England.</term>
+               <term>Procedure (Law) --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47270:1"/>
+            <pb facs="tcp:47270:1" rendition="simple:additions"/>
+            <p>THE Courſe and Practice OF THE COURT OF COMMON-PLEAS, At <hi>Weſtminſter.</hi>
+            </p>
+            <p>Heretofore Written by THOMAS CORY, <hi>Eſq;</hi> Late Chief Prothonotary thereof.</p>
+            <p>AND Now continued, and fitted to the Practice uſed at this day, with Additions by <hi>W. B.</hi> a Clerk of the ſame Court.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Iohn Streater, Henry Twyford,</hi> and <hi>E. Fleſher,</hi> Aſſigns of <hi>Richard Atkins,</hi> and <hi>Edward Atkins,</hi> Eſq; M.DC.LXXII.</p>
+            <p>Cum Gratia &amp; Privilegio Regiae Majeſtatis.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:47270:2" rendition="simple:additions"/>
+            <pb facs="tcp:47270:2" rendition="simple:additions"/>
+            <head>A TABLE OF THE Principal Matters.</head>
+            <list>
+               <item>
+                  <hi>Concerning Priſoners,</hi> Fol. 1</item>
+               <item>
+                  <hi>Of Bayl,</hi> Fol. 4</item>
+               <item>
+                  <hi>Concerning the writ of Clauſum fregit, and ſpecial writ containing the declaration at large; and of fileing New Originals,</hi> Fol. 8</item>
+               <item>
+                  <hi>Of Imparlances,</hi> Fol. 9</item>
+               <item>
+                  <hi>Of Signing and entring Judgments,</hi> Fol. 12</item>
+               <item>
+                  <hi>Of Appearances upon Exigents, Habeas Corpus, pluries capias, diſtringas, &amp;c.</hi> Fol. 14</item>
+               <item>
+                  <hi>Of Attachments upon Contempt,</hi> Fol. 15</item>
+               <item>
+                  <hi>Of amending Entreys, &amp;c.</hi> Fol. 17</item>
+               <item>
+                  <hi>Of reading Demurrers, ſpecial Verdicts &amp;c. in Court; <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d the Courſe uſed therein by the Prothonotaries,</hi> Fol. 20</item>
+               <item>
+                  <hi>Of the chief Prothonotary,</hi> Fol. 21</item>
+               <item>
+                  <hi>Of the Teſt's and returns of writs in all Actions real and perſonal, and thoſe brought by Attachment of Privi<g ref="char:EOLhyphen"/>ledge, &amp;c.</hi> Fol. 23</item>
+               <item>
+                  <hi>The antient Courſe of giving warrants to confeſs Judgments,</hi> Fol. 24</item>
+               <pb facs="tcp:47270:3"/>
+               <item> 
+                  <hi>Of Renewing Judgments by Scire Facias,</hi> Fol. 26</item>
+               <item>
+                  <hi>Of perſons taken in Execution in forrain Counties,</hi> Fol. 27</item>
+               <item>
+                  <hi>Concerning the Priviledge of the Clerk of the Court,</hi> Fol. 28</item>
+               <item>
+                  <hi>Of carrying down cauſes to be tryed by proviſo,</hi> Fol. 29</item>
+               <item>
+                  <hi>Of giving notice upon writs of Inquiry and Niſi prius,</hi> Fol. 30</item>
+               <item>
+                  <hi>Of declaring upon Reverſal of Utlaries, &amp; Bayl to writs of Habeas corpus,</hi> Fol. 32</item>
+               <item>
+                  <hi>Of appearing in Quare Impedit, and waſt upon the diſtreſſe of are ſting Judgment,</hi> Fol. 33</item>
+               <item>
+                  <hi>Of matters concerning the Prothonotaries, and of the Clerks, and Attorneys of the Court, and their Clyents,</hi> Fol. 34</item>
+               <item>
+                  <hi>Of Tryals at Barre,</hi> Fol. 35</item>
+               <item>
+                  <hi>Of declaring in cauſes removed, as well out of Inferior Courts, as otherwiſe,</hi> Fol. 36</item>
+               <item>
+                  <hi>Of an Habeas corpus,</hi> Fol. 41</item>
+               <item>
+                  <hi>Of declaring upon Meſne proceſſe,</hi> Fol. 42</item>
+               <item>
+                  <hi>Of Nonſuits,</hi> Fol. 45</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47270:3" rendition="simple:additions"/>
+            <head>THE Courſe and Practice <hi>of the CO<g ref="char:V">Ʋ</g>RT of</hi> COMMON PLEAS.</head>
+            <div type="part">
+               <head>Concerning Priſoners.</head>
+               <p>IF a Priſoners Body with his Cauſes be removed by <hi>Habeas Corpus</hi> or Writ of Priviledge, if the Priſoner be there in perſon, he muſt under<g ref="char:EOLhyphen"/>take in double the ſum, and his Bayl in the ſingle ſum. But if
+<pb n="2" facs="tcp:47270:4"/>the Priſoner be not there in perſon, then the Bayl muſt be in the double ſum.</p>
+               <p>If ſuch a Priſoner when he comes in Court, or before the Judge, hath no Bayl, he is ei<g ref="char:EOLhyphen"/>ther to be committed to the <hi>Fleet,</hi> or remanded, but he can<g ref="char:EOLhyphen"/>not be committed to the <hi>Fleet</hi> unleſs there be ſome proceſs of the <hi>Common Pleas</hi> returned, or unleſs he be brought to the Bar, and the Record of a Judgment or Utlary be brought in Court to charge the Priſoner with in Court; but now the Common Practice is upon removal of a Priſoner by <hi>Habeas Corpus,</hi> to feign a Writ of <hi>Capias,</hi> or At<g ref="char:EOLhyphen"/>tachment
+<pb n="3" facs="tcp:47270:4" rendition="simple:additions"/>of priviledge to turn the Priſoner over to the <hi>Fleet.</hi>
+               </p>
+               <p>If a Priſoner be committed to the Fleet <hi>pro defectu Ma<g ref="char:EOLhyphen"/>nucaptorum,</hi> and lyes three Terms there, and the Plaintiff doth not in that time Declare againſt him, then upon a com<g ref="char:EOLhyphen"/>mon Appearance the Priſoner is to be diſcharged out of Pri<g ref="char:EOLhyphen"/>ſon; but if the Plaintiff offers to declare, and the Priſoner will not appear, then the Pri<g ref="char:EOLhyphen"/>ſoner muſt remain ſtill in Pri<g ref="char:EOLhyphen"/>ſon, and the Plaintiff may ſue him to the Utlary notwithſtan<g ref="char:EOLhyphen"/>ding he is in Priſon.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:47270:5"/>
+               <head>Of Bayl.</head>
+               <p>IF the Bayl bring in the Principal at any time be<g ref="char:EOLhyphen"/>fore a Plea pleaded to a <hi>Scire facias verſus Manucaptores,</hi> or before Judgment by default, the Court hath uſed to receive the Principal in diſcharge of the Bayl; and if the Plaintiff will pray him in Execucion, he ſhall have him; if not, then the Prin<g ref="char:EOLhyphen"/>cipal ſhall be diſcharged, and the Plaintiff may take him in Execution when he can Arreſt him; or he may ſue forth Ex<g ref="char:EOLhyphen"/>ecution againſt his Lands and Goods: but antiently the Prin<g ref="char:EOLhyphen"/>cipal
+<pb n="5" facs="tcp:47270:5" rendition="simple:additions"/>could not render his bo<g ref="char:EOLhyphen"/>dy in diſcharge of his Bayl after he was returned <hi>Non eſt inventus</hi> upon Record, upon the <hi>Capias ad ſatisfaciendum,</hi> but now the Court hath the middle way, which is, to re<g ref="char:EOLhyphen"/>ceive the Principal upon the return of the firſt <hi>Scire facias,</hi> but not after that.</p>
+               <p>If the Defendant comes in by <hi>Cepi corpus</hi> returned in debt for twenty pounds or above, or in any Action upon the Caſe, or Treſpaſs <hi>ad dampnum vel valenciam viginti Librarum</hi> or above; or if he be Utlaw<g ref="char:EOLhyphen"/>ed in any of theſe Actions <hi>ad dampnum vel valenciam viginti
+<pb n="6" facs="tcp:47270:6"/>Librarum</hi> or more, and rever<g ref="char:EOLhyphen"/>ſeth the Utlary, the De<g ref="char:EOLhyphen"/>fendant in ſuch a caſe ought to put in Special Bayl, but in all other caſes (except in Writs of Priviledge at the Suit of an Officer) Defen<g ref="char:EOLhyphen"/>dants appearance ſhall be re<g ref="char:EOLhyphen"/>ceived without Special Bayl. But this courſe is now al<g ref="char:EOLhyphen"/>tered by the late Act of Par<g ref="char:EOLhyphen"/>liament; ſo that the Plaintiff cannot have ſpecial Bayl un<g ref="char:EOLhyphen"/>leſs it be in the Writ Debt twenty pounds or upwards; and in all other Actions, the true cauſe of Action muſt be ſet forth at large in the Writ whereupon the Defendant is
+<pb n="7" facs="tcp:47270:6" rendition="simple:additions"/>Arreſted, otherwiſe a common Appearance is ſufficient.</p>
+               <p>In all Writs of Priviledge at the ſuit of an Officer of the Court, the Defendant, if he be Arreſted, muſt put in ſpecial Bayl, although the debt or da<g ref="char:EOLhyphen"/>mages demanded, be under twenty pounds; and if an Officer or Attorny of the Court be ſued, he ought to be ſued by Bill at the firſt, and not by Original, and if he ſhall refuſe to appear, he ſhall be fore<g ref="char:EOLhyphen"/>judged the Court, and then he may be Arreſted, and ſo is the common courſe, but it is reſer<g ref="char:EOLhyphen"/>ved to the Plaintiffs choice, whether he will ſue him by
+<pb n="8" facs="tcp:47270:7"/>Bill or Writ; But if one priviledged perſon ſue another, the Plantiff may, and doth uſu<g ref="char:EOLhyphen"/>ally Arreſt the Defendant, whether he be of this, or any other of the Kings Courts at <hi>Westminſter,</hi> for that the firſt priviledge deſtroys the ſecond.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Writ of <hi>Clauſum fregit,</hi> and ſpecial Writ, con<g ref="char:EOLhyphen"/>taining the declaration at large; and of Fileing New Origi<g ref="char:EOLhyphen"/>nals.</head>
+               <p>IF the Defendant formerly had been Arreſted upon a <hi>Clauſum fregit,</hi> the Plaintiff
+<pb n="9" facs="tcp:47270:7" rendition="simple:additions"/>might have declared in any perſonal Action thereupon, except in debt: But of late they have uſed, and do now uſe to declare in debt, upon ſu<g ref="char:EOLhyphen"/>ing forth a New Original in debt.</p>
+            </div>
+            <div type="part">
+               <head>Of Imparlances.</head>
+               <p>IF the Defendant appears up<g ref="char:EOLhyphen"/>on an Arreſt by <hi>Clauſum fregit</hi> (which is a general Writ, and may be ſaid to be the Common Pleas <hi>Latitat</hi>) he muſt have an Imparlance of Courſe; but if the Writ where<g ref="char:EOLhyphen"/>upon
+<pb n="10" facs="tcp:47270:8"/>he was arreſted be ſpe<g ref="char:EOLhyphen"/>cial, according to the truth of the Action, and retornable the firſt or ſecond retorn in any Term, ſo as a <hi>Venire facias</hi> may iſſue forth, there the De<g ref="char:EOLhyphen"/>fendant ought to anſwer the firſt Term in all perſonal and mixt Actions; but in re<g ref="char:EOLhyphen"/>al Actions, the Defendant ſhall have one Imparlance of Courſe.</p>
+               <p>The reaſon why they have had Imparlances in all caſes in the <hi>Kings Bench</hi> is, becauſe the Defendant being arreſted upon a general Writ, a <hi>Lati<g ref="char:EOLhyphen"/>tat</hi> could not know the cauſe of Action until the Declara<g ref="char:EOLhyphen"/>tion.
+<pb n="11" facs="tcp:47270:8"/>And this reaſon holds in the <hi>Common Pleas,</hi> where the Defendant is arreſted upon a general <hi>Clauſum fregit:</hi> But in other Special Writs where the very Declaration is in the Writ, and the Defendant might when he is arreſted ſee the Declaration in the Writ, there he ought not imparle, but to anſwer the firſt Term, as well in the <hi>Kings Bench</hi> up<g ref="char:EOLhyphen"/>on their new Writ of <hi>Aceciam bille,</hi> as in the <hi>Common Pleas</hi> upon Special Writs.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:47270:9"/>
+               <head>Of ſigning and entring of Judgements.</head>
+               <p>BY the courſe of the Court, after the ordinary rules given in the Office be out, the Plaintiff may enter Judgment by <hi>nichil dicit,</hi> (if the Defen<g ref="char:EOLhyphen"/>dant doth not plead) and this is as well in Ejectment as in all other perſonal Actions, with<g ref="char:EOLhyphen"/>out moving of the Court. But of late it hath been uſed in <hi>Qua<g ref="char:EOLhyphen"/>re Impedit,</hi> and Ejectment, to move the Court before they enter Judgement, and ſo is the Common practice now uſed.</p>
+               <pb n="13" facs="tcp:47270:9" rendition="simple:additions"/>
+               <p> But in all real Actions no Judgment is to be entred by <hi>nichil dicit</hi> without motion in Court; and there was former<g ref="char:EOLhyphen"/>ly a rule made, that no Judge<g ref="char:EOLhyphen"/>ment by default ſhould be en<g ref="char:EOLhyphen"/>tred in Ejectment, without mo<g ref="char:EOLhyphen"/>ving the Court; which rule was afterwards altered by a<g ref="char:EOLhyphen"/>nother, and then Judgment might have been entred by de<g ref="char:EOLhyphen"/>fault upon a Rule entred by the Secondary, ſo as the Pariſh where the Lands lye were ex<g ref="char:EOLhyphen"/>preſſed in the Rule. But now Judgment cannot be had by default in Ejectment, unleſs up<g ref="char:EOLhyphen"/>on motion in Court, and <hi>Af<g ref="char:EOLhyphen"/>fidavit</hi> thereupon made, that
+<pb n="14" facs="tcp:47270:10"/>the Tenant was actually ſer<g ref="char:EOLhyphen"/>ved with a true copy of the Declaration, and that the con<g ref="char:EOLhyphen"/>tents thereof were read unto him; or he, or his Wife, or his Servant, were acquainted with the meaning thereof.</p>
+            </div>
+            <div type="part">
+               <head>Of Appearances upon <hi>Exi<g ref="char:EOLhyphen"/>gents, Habeas Corpus, Plu<g ref="char:EOLhyphen"/>ries Capias, Diſtringas,</hi> &amp;c.</head>
+               <p>IF the Defendant appears up<g ref="char:EOLhyphen"/>on the <hi>Exigent,</hi> or upon the <hi>Habeas Corpus, Pluries Ca<g ref="char:EOLhyphen"/>pias,</hi> or <hi>Distreſs,</hi> or upon Bayl put in upon a <hi>Habeas Corpus,</hi>
+                  <pb n="15" facs="tcp:47270:10" rendition="simple:additions"/>or upon an Utlary reverſed, then by the courſe of the Court the Defendant muſt anſwer the firſt Term, becauſe he hath ſtood out ſo many Proceſs: and in ſuch caſes the Court does not uſe to change the <hi>Viſne.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Attachments upon Contempt.</head>
+               <p>IF an Attachment be granted upon a contempt ſworn by <hi>Affidavit</hi> (as it ought) and the Defendant is Arreſted thereupon, and brought into
+<pb n="16" facs="tcp:47270:11"/>Court, he ought to be commit<g ref="char:EOLhyphen"/>ted to the <hi>Fleet,</hi> and then to be examined upon Interrogatories: if he clear himſelf upon his Oath, he ſhall be diſcharged, and have his coſts paid him by the Proſecutor. If guilty, he ſhall be fined; but in this caſe the Proſecutor ſhall not be ad<g ref="char:EOLhyphen"/>mitted to prove the Defendant guilty, after he hath cleared himſelf upon his Oath. But the courſe now uſed in ſuch caſes, is, for the Defendant with Sureties, to enter into a Re<g ref="char:EOLhyphen"/>cognizance in Court for his appearance <hi>de die in diem,</hi> until he be diſcharged, and then to turn him over to the Secon<g ref="char:EOLhyphen"/>dary
+<pb n="17" facs="tcp:47270:11" rendition="simple:additions"/>to be examined upon his Oath upon Interrogatories, but for want of <hi>Manucaptores</hi> to ſend him to the <hi>Fleet.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of amending Entries, <hi>&amp;c.</hi>
+               </head>
+               <p>BY the courſe of this Court every Declaration and Plea ought to be entred upon Re<g ref="char:EOLhyphen"/>cord, the ſame Term it is de<g ref="char:EOLhyphen"/>livered or pleaded, and every Iſſue and Demurrer the ſame Terme it is joyned; and there<g ref="char:EOLhyphen"/>fore if it be altered or amend<g ref="char:EOLhyphen"/>ed before it be entred, he that altereth muſt pay coſts, but if
+<pb n="18" facs="tcp:47270:12"/>it be once entred upon Re<g ref="char:EOLhyphen"/>cord, then there can be no amendment without conſent, or Rule of Court upon Mo<g ref="char:EOLhyphen"/>tion.</p>
+               <p>The Roll wherein the De<g ref="char:EOLhyphen"/>claration is entred with an Im<g ref="char:EOLhyphen"/>parlance to it, is called the Im<g ref="char:EOLhyphen"/>parlance Roll: the Roll of the next Term after, wherein the Declaration is again entred as before <hi>Verbatim,</hi> together with the Iſſue or Judgment to it; that ſecond Roll is called the Iſ<g ref="char:EOLhyphen"/>ſue or Judgment Roll; and if the firſt Roll, which is the Im<g ref="char:EOLhyphen"/>parlance Roll, be right; and the ſecond Roll, which is the Iſſue or Judgment Roll, be miſtaken,
+<pb n="19" facs="tcp:47270:12" rendition="simple:additions"/>the Imparlance Roll is the war<g ref="char:EOLhyphen"/>rant to amend the Subſequent Roll: and if the Imparlance Roll be miſtaken, and the Iſſue Roll both, yet if the Originall Writ be right, all the ſubſe<g ref="char:EOLhyphen"/>quent Writs and Rolls are a<g ref="char:EOLhyphen"/>mendable by the Original.</p>
+               <p>If the Defendant pleads a ſpecial Plea, he may wave it the ſame Term before it be entred, or any Replication made there<g ref="char:EOLhyphen"/>unto, and plead the general Iſ<g ref="char:EOLhyphen"/>ſue; but if the Term be paſt, it is intended to be entred, and therefore cannot be altered or waved without conſent or mo<g ref="char:EOLhyphen"/>tion in Court: yet if in truth the Plea be not entred, but ſtill
+<pb n="20" facs="tcp:47270:13"/>in Paper it may be amended upon payment of Coſts.</p>
+            </div>
+            <div type="part">
+               <head>Of Reading Demurrers, Spe<g ref="char:EOLhyphen"/>cial Verdicts, <hi>&amp;c.</hi> in Court; and the courſe uſed therein by the Prothonotaries.</head>
+               <p>AFter the Bar have been once heard over, then Records of Demurrers and Spe<g ref="char:EOLhyphen"/>cial Verdicts are read, and Wagers of Law taken by the Secondaries. In order, the firſt Prothonatory begins firſt, and then the ſecond and third Pro<g ref="char:EOLhyphen"/>thonotary in their courſes;
+<pb n="21" facs="tcp:47270:13" rendition="simple:additions"/>and untill the Books be deli<g ref="char:EOLhyphen"/>vered to the Judges, and the Record read, the matter in Law ought not to be ſpoke to at the Barre.</p>
+            </div>
+            <div type="part">
+               <head>Of the Chief Prothonotary.</head>
+               <p>THe chiefe Prothonotary ſwears all the Officers and Attornies of the Court, and enters the Admiſſions of Record for the Officers, and for the At<g ref="char:EOLhyphen"/>tornies, he enters them in his Remembrance Roll, that they were, <hi>Jurati in Curia,</hi> and
+<pb n="22" facs="tcp:47270:14"/>makes certificate thereof unto the Clerk of the Warrants, by which he enters the Attorney's name into the Roll.</p>
+               <p>The chief Prothonotary ought to enter all Patents made to the Juſtices or Officers of this Court, and other Patents of Grace by the King to the Court, and ought to have the firſt Plea Roll, and the firſt Com<g ref="char:EOLhyphen"/>mon Roll of the Court, and to enter all Writs of Adjourn<g ref="char:EOLhyphen"/>ment of the Terms.</p>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:47270:14" rendition="simple:additions"/>
+               <head>Of the Teſte's and Retorns of Writs in all Actions real and perſonal, and thoſe brought by Attachment of Priviledge, <hi>&amp;c.</hi>
+               </head>
+               <p>THere muſt be nine retorns betwen the Teſte, and the retorn incluſive of all Writs of <hi>Formidon,</hi> Writs of <hi>Right, Ayel,</hi> &amp;c. and in <hi>Dower</hi> five retorns, and in all other Perſonal Acti<g ref="char:EOLhyphen"/>ons fifteen dayes, except in Actions brought by Attach<g ref="char:EOLhyphen"/>ment of Priviledge which are retornable, <hi>de die in diem:</hi> and the like is, where the ſuit is by Bill againſt a Priviledged Per<g ref="char:EOLhyphen"/>ſon, in which caſes, the Con<g ref="char:EOLhyphen"/>tinuances
+<pb n="24" facs="tcp:47270:15"/>are, <hi>de die in diem,</hi> and alwaies upon a day cer<g ref="char:EOLhyphen"/>tain, and not upon a common Retorn.</p>
+            </div>
+            <div type="part">
+               <head>The antient courſe of giving Warrants to confeſs Judge<g ref="char:EOLhyphen"/>ments.</head>
+               <p>THe Principal in a Bond might formerly have gi<g ref="char:EOLhyphen"/>ven Warrant to appear for himſelf and his Sureties, and to confeſs Judgment for all, and it was Warranted by the courſe of the Court: But if the Sure<g ref="char:EOLhyphen"/>ty dyed, the Principal could
+<pb n="25" facs="tcp:47270:15" rendition="simple:additions"/>not confeſs Judgment againſt the Executor of the Sure<g ref="char:EOLhyphen"/>ty, for then he ſhould take away his Plea of <hi>plene Ad<g ref="char:EOLhyphen"/>miniſtravit:</hi> And ſo it was if the Principal dyed, his Exe<g ref="char:EOLhyphen"/>cutor could not confeſs Judg<g ref="char:EOLhyphen"/>ment againſt the Surety. But this Practice is quite altered, ſo that no Principal or other can give Warrant for any but himſelf onely.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:47270:16"/>
+               <head>Of Renewing Judgments by <hi>Scire facias.</hi>
+               </head>
+               <p>IF the Plaintiff in a Judgment dyes, his Executor muſt re<g ref="char:EOLhyphen"/>new the Judgment by one <hi>Sci<g ref="char:EOLhyphen"/>rec facias;</hi> but otherwiſe it is where the Defendant dyes, there muſt be two Writs of <hi>Scire facias,</hi> unleſs there be <hi>Scire feci</hi> retorned by the She<g ref="char:EOLhyphen"/>riff upon the firſt Writ of <hi>Scire facias,</hi> for one <hi>Scire feci</hi> doth amount to as much as two <hi>Nichil's</hi> retorned.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:47270:16" rendition="simple:additions"/>
+               <head>Of Perſons taken in Execution in forrein Counties</head>
+               <p>NO Defendant can be ta<g ref="char:EOLhyphen"/>ken in Execution in a forrein County, untill there be firſt a Writ of <hi>Capias ad Sa<g ref="char:EOLhyphen"/>tisfaciendum,</hi> ſued forth in that County where the Acti<g ref="char:EOLhyphen"/>on lies, and <hi>Non eſt inven<g ref="char:EOLhyphen"/>tus</hi> retorned thereupon, and filed; or that there be an Ex<g ref="char:EOLhyphen"/>ecution in the Proper Coun<g ref="char:EOLhyphen"/>ty entred upon the Roll, and a <hi>Teſtatum</hi> awarded.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:47270:17"/>
+               <head>Concerning the Priviledge of the Clerks of the Court.</head>
+               <p>THe Clerks of the Court may reſort to the Rolls of the Court, to examine their own Entries, and make them right, if there be no Writ of Error brought, nor Rule of Court, nor Recordatur en<g ref="char:EOLhyphen"/>tred to the contrary; in which caſe the Clerks hands are ren<g ref="char:EOLhyphen"/>dred uſeleſs, ſo as he cannot amend any thing in the Roll, without a Rule of the Court.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:47270:17" rendition="simple:additions"/>
+               <head>Of carrying down Cauſes to be tryed by <hi>Proviſo.</hi>
+               </head>
+               <p>THe Plaintiff muſt make one Default, in not car<g ref="char:EOLhyphen"/>rying down the Record of <hi>Niſi prius,</hi> before the Defen<g ref="char:EOLhyphen"/>dant can take it down by <hi>Proviſo;</hi> except it be in <hi>Re<g ref="char:EOLhyphen"/>plevyn,</hi> in which Action the Defendant may take it down the firſt time, and not ſtay till the Plaintiff makes De<g ref="char:EOLhyphen"/>fault.</p>
+            </div>
+            <div type="part">
+               <pb n="30" facs="tcp:47270:18"/>
+               <head>Of giving notice upon Writs of <hi>Inquiry,</hi> and <hi>Niſi prius.</hi>
+               </head>
+               <p>BY the antient courſe of the Court, the Plaintiff was not bound to give the Defen<g ref="char:EOLhyphen"/>dant notice of the ſpeeding a Writ of <hi>Inquiry</hi> of Damages, but the Defendant, when there was a Judgment againſt him, then ought to have taken no<g ref="char:EOLhyphen"/>tice at his peril: But that Courſe is altered by Rule of Court, and now the Plaintiff muſt give the Defendant eight dayes notice.</p>
+               <p>The Plaintiff ought to give the Defendant or his Attor<g ref="char:EOLhyphen"/>ney
+<pb n="31" facs="tcp:47270:18" rendition="simple:additions"/>notice of every Tryal by <hi>Niſi prius,</hi> before it be Try<g ref="char:EOLhyphen"/>ed: But if the Record hath been once carried down, and notice given, then the Plain<g ref="char:EOLhyphen"/>tiff carrying it down the ſe<g ref="char:EOLhyphen"/>cond time (or if the Defen<g ref="char:EOLhyphen"/>dant carries it down by <hi>Pro<g ref="char:EOLhyphen"/>viſo</hi>) there needs no notice.</p>
+            </div>
+            <div type="part">
+               <pb n="32" facs="tcp:47270:19"/>
+               <head>Of Declaring upon <hi>Reverſal</hi> of <g ref="char:V">Ʋ</g>tlaries, and <hi>Bayl</hi> to Writs of <hi>Habeas corpus.</hi>
+               </head>
+               <p>IF the Plaintiff do not De<g ref="char:EOLhyphen"/>clare within two Terms after the Utlary reverſed, or Bayl put in upon a Re<g ref="char:EOLhyphen"/>moval by <hi>Habeas corpus,</hi> &amp;c. the Defendant is not bound to accept the Declaration af<g ref="char:EOLhyphen"/>terwards. But in ſuch caſe, the Defendant cannot <hi>Non proſ.</hi> the Plaintiff, and have coſts for want of Declaring, becauſe the Defendant was not Ar<g ref="char:EOLhyphen"/>reſted upon a Common Writ.</p>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:47270:19" rendition="simple:additions"/>
+               <head>Of Appearing in <hi>Quare Im<g ref="char:EOLhyphen"/>pedit,</hi> and <hi>Waſt</hi> upon the Diſtreſs.</head>
+               <p>IF the Defendant in <hi>Quare Impedit,</hi> or in a Writ of <hi>Waſt</hi> do not appear upon the Diſtreſs, it is perempto<g ref="char:EOLhyphen"/>ry to him, and the Judge<g ref="char:EOLhyphen"/>ment ſhall be entred againſt him of courſe, without mo<g ref="char:EOLhyphen"/>ving of the Court.</p>
+            </div>
+            <div type="part">
+               <pb n="34" facs="tcp:47270:20"/>
+               <head>Of Arreſting Judgment.</head>
+               <p>AFter a <hi>Verdict</hi> is given for the Plaintiff, there is four dayes from the retorn of the <hi>Habeas Corpora</hi> allowed the Defendant, to make an Ar<g ref="char:EOLhyphen"/>reſt of Judgment, unleſs the <hi>Habeas Corpora</hi> be retorna<g ref="char:EOLhyphen"/>ble the laſt retorn of the Term: And in that caſe the Defen<g ref="char:EOLhyphen"/>dant hath day untill the laſt day of the Term, and no longer: And there is no Courſe of the Court that gives four dayes after the bringing in of the <hi>Postea,</hi> but
+<pb n="35" facs="tcp:47270:20" rendition="simple:additions"/>after the retorn of the <hi>Habe<g ref="char:EOLhyphen"/>as Corpora.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of Matters concerning the <hi>Prothonotaries;</hi> and of the <hi>Clerks,</hi> and <hi>Attornies</hi> of this Court, and their <hi>Clyents.</hi>
+               </head>
+               <p>EVery <hi>Attorney</hi> of this Court when he is firſt ſworn an <hi>Attorney,</hi> hath an Electi<g ref="char:EOLhyphen"/>on to ſettle himſelf and his buſineſs in which of the three <hi>Prothonotaries</hi> Office he plea<g ref="char:EOLhyphen"/>ſeth; but after his Election once made, he muſt conti<g ref="char:EOLhyphen"/>nue in that Office, and may
+<pb n="36" facs="tcp:47270:21"/>not remove from Office to Office, without the Licence of the Court, upon juſt cauſe ſhewed againſt that <hi>Prothono<g ref="char:EOLhyphen"/>tary,</hi> from whoſe Office he would remove: And for the <hi>Clerks,</hi> they have an Electi<g ref="char:EOLhyphen"/>on to be of which office they will, before they are admitted, but when they have made their Election, and are once admitted in an Office, they are con<g ref="char:EOLhyphen"/>cluded, and may not remove without leave of the Court.</p>
+               <p>So likewiſe, where a Cauſe is firſt begun, in that Office it muſt continue to the end of that Cauſe; As where the De<g ref="char:EOLhyphen"/>claration is entred, there the Iſſue and Judgment muſt be
+<pb n="37" facs="tcp:47270:21" rendition="simple:additions"/>entred; &amp; the Execution or <hi>Sci<g ref="char:EOLhyphen"/>re facias</hi> upon that Judgment, muſt be in that Office where the Judgment is; and ſo it is for <hi>Habeas Corpus</hi> upon Bayles, the <hi>Procedendo</hi> muſt go out of the ſame Office from whence the <hi>Habeas Corpus</hi> went; and if there be a <hi>Scire facias</hi> upon the Bayl, it muſt be in the ſame Office where the Re<g ref="char:EOLhyphen"/>cord of the Bayl is.</p>
+               <p>And likewiſe, every Cly<g ref="char:EOLhyphen"/>ent hath an Election to chuſe what Attorney he pleaſeth; but after he hath choſen an At<g ref="char:EOLhyphen"/>torney in a Cauſe, he cannot change him without leave of the Court, upon juſt cauſe ſhewed againſt him.</p>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:47270:22"/>
+               <head>Of Tryals at Barre.</head>
+               <p>FOr Tryals at the Barre, they are called in courſe; the chief <hi>Prothonotary</hi> hath the firſt turne, the ſecond <hi>Prothonota<g ref="char:EOLhyphen"/>ry</hi> the ſecond courſe, and the third <hi>Prothonotary</hi> the third courſe: And the ſame courſe (as hath been before obſer<g ref="char:EOLhyphen"/>ved) is for reading of Records of Demurrers, and ſpecial Ver<g ref="char:EOLhyphen"/>dicts, and the like for Wagers of Law, which are alwayes cal<g ref="char:EOLhyphen"/>led upon the <hi>Quarto die poſt,</hi> after the Barre hath been once heard over.</p>
+            </div>
+            <div type="part">
+               <pb n="39" facs="tcp:47270:22" rendition="simple:additions"/>
+               <head>Of Declaring in Cauſes Remo<g ref="char:EOLhyphen"/>ved, aſwel out of Inferiour Courts, as otherwiſe.</head>
+               <p>THe Plaintiff that Declares upon a new Original, where a Cauſe is removed out of an Inferiour Court, muſt not vary from his firſt Action, in the Nature of his Action in the County, or in the Sum in demand; and this New O<g ref="char:EOLhyphen"/>riginal muſt be brought with<g ref="char:EOLhyphen"/>in two Terms after the Bayl put in, accounting that Term wherein the Bayl was taken, for one.</p>
+               <p>If the Defendant be Arreſt<g ref="char:EOLhyphen"/>ed
+<pb n="40" facs="tcp:47270:23"/>by <hi>Capias</hi> out of this Court, and afterwards removed by <hi>Habeas Corpus,</hi> and committed to the <hi>Fleet,</hi> and charged with this <hi>Capias,</hi> the Plaintiff in that <hi>Capias</hi> may by courſe of the Court declare againſt the Priſoner in <hi>Cuſtodia</hi> upon the <hi>Capias;</hi> and if the Defendant will not Plead, Judgment ſhall be entred by <hi>Nichil dicit.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:47270:23" rendition="simple:additions"/>
+               <head>Of an <hi>Habeas corpus.</hi>
+               </head>
+               <p>THe <hi>Habeas corpus</hi> is the Warrant to bring the Priſoner to put in Bayl, and the Bayl muſt be taken upon the retorn of the Writ, or within ſome few dayes after, and in the ſame Term, and then ſhall be intended to be taken upon the retorn of the Writ; and therefore where the Writ is retornable upon a day certain, there the courſe is to put down no day for the taking of the Bayl; but where the Writ is retorn<g ref="char:EOLhyphen"/>able,
+<pb n="42" facs="tcp:47270:24"/>immediate there muſt be a day of the <hi>Caption,</hi> which muſt be ſome day before the end of that Term next after <hi>Teſte</hi> of the Writ.</p>
+            </div>
+            <div type="part">
+               <head>Of Declaring upon <hi>Meſne Proceſs.</hi>
+               </head>
+               <p>BY the Common Practice of this Court now uſed, if the Defendant be Arreſted upon <hi>Meſne Proceſs</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or any other County or City, the Plaintiff may declare againſt him in ſuch County or City where he was ſo Ar<g ref="char:EOLhyphen"/>reſted,
+<pb n="43" facs="tcp:47270:24" rendition="simple:additions"/>or may lay his Action in any other County in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> at the Plaintiffs Election: And the Defendant is bound to acept of as many Declarati<g ref="char:EOLhyphen"/>ons, by himſelf or his Attor<g ref="char:EOLhyphen"/>ney, in any Action whatſoe<g ref="char:EOLhyphen"/>ver at the ſame Plaintiffs ſuit, (real Actions only excepted) as the Plaintiff hath cauſe to declare againſt him; but the Defendant is only bound to put in Bayl to the firſt Action, (if the caſe ſo require) and only to appear to all ſuch other Actions, as ſhall be brought againſt him by the ſame Plaintiff, as aforeſaid, and to receive Declarations there<g ref="char:EOLhyphen"/>upon,
+<pb n="44" facs="tcp:47270:25"/>without putting in Bayl thereunto (except in the firſt Action only, as aforeſaid).</p>
+               <p>But note that the Defen<g ref="char:EOLhyphen"/>dant is not bound by the Ru<g ref="char:EOLhyphen"/>les, or Uſage of this Court, to accept of Declarations at a<g ref="char:EOLhyphen"/>ny other perſons ſuit, than the Plaintiffs; at whoſe ſuit he is Arreſted, as the courſe is in the Court of the <hi>Kings Bench;</hi> for that there the Defendant is ſuppoſed to be in <hi>Cuſtodia Marreſcalli,</hi> and ſo to anſwer, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="45" facs="tcp:47270:25" rendition="simple:additions"/>
+               <head>Of <hi>Nonſuits.</hi>
+               </head>
+               <p>UPon any Writ ſued out of this Court retornable in any Term, the Plaintiff hath that Term wherein the Writ is retornable, and until the laſt day of the ſubſequent Term, to Declare againſt the Defen<g ref="char:EOLhyphen"/>dant, but not afterwards: And if he doth not then Declare, the Defendant upon a Rule given in that Office, where the Plaintiffs Atorney to the Writ enters, may there ſign a <hi>Non proſedendum,</hi> and take out Execution thereupon for
+<pb n="46" facs="tcp:47270:26"/>his Coſts. And there is the ſame time allowed the Plain<g ref="char:EOLhyphen"/>tiff, to Declare in the <hi>Kings Bench,</hi> otherwiſe the Defen<g ref="char:EOLhyphen"/>dant may there have a <hi>Non proſedendum.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47270:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
